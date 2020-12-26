@@ -1,3 +1,3 @@
 # hello-world
-just hello-world repository
+Just hello-world repository
 Hi everyone!
